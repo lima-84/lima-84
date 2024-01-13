@@ -124,9 +124,3 @@
   />
 </p>
 <br>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lima-84&show_icons=true&theme=dark&locale=en&layout=compact"
-    alt="lima-84"
-  />
-</p>
