@@ -5,7 +5,7 @@
   programming in general.
   
   I'm experienced in System Identification and Data-Driven Control from years working
-  as a resarch assistant at <a href="http://www.datadrivencontrol.com/">Grupo de Controle Baseado em Dados da UFRGS</a> and
+  as a research assistant at <a href="http://www.datadrivencontrol.com/">Grupo de Controle Baseado em Dados da UFRGS</a> and
   from my graduation completion monograph (<a href="https://lume.ufrgs.br/handle/10183/258920">Trabalho de Conclusão de Curso</a>),
   the latter studying (mainly, but not exclusively) the use of nonlinear system identification techniques for a servohydraulic actuator.
   
