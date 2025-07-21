@@ -15,24 +15,22 @@
   focusing on developing solutions for SCADA applications for electrical energy distribution systems.
 </p>
 <p align="justify">
-  Currently, I'm a masters student and researcher in Aeronautical Engineering at <a href="https://embraer.com">Embraer</a> and 
+  Currently, I'm a Product Development Engineer in the area of Flight Controls at <a href="https://embraer.com">Embraer</a> and masters student and researcher in Aeronautical Engineering at 
   <a href="http://www.ita.br/">Instituto Tecnológico de Aeronáutica</a> (ITA) through the joint program
   <a href="https://embraer.com/br/pt/pee">Programa de Especialização em Engenharia</a>.
-</p><br>
+</p>
 
 <p>
-  Here you'll find some of my projects throughout my years learning to code.
+  Here you'll find some of my personal projects throughout my years learning to code.
   Feel free to ask me anything!
+</p>
+
+<p>  
+  You can find more information on my <a href="https://www.linkedin.com/in/pedro-rodrigues-de-lima-1519a035b"> LinkedIn</a> profile.
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <img
-    src="https://angular.io/assets/images/logos/angular/angular.svg"
-    alt="angular"
-    width="40"
-    height="40"
-  />
   <img
     src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
     alt="arduino"
@@ -63,15 +61,10 @@
     width="40"
     height="40"
   />
+  <br />
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
     alt="java"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript"
     width="40"
     height="40"
   />
@@ -81,7 +74,6 @@
     width="40"
     height="40"
   />
-  <br />
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"
     alt="matlab"
@@ -95,44 +87,8 @@
     height="40"
   />
   <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-    alt="mysql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-    alt="pandas"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-    alt="postgresql"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-    alt="postman"
-    width="40"
-    height="40"
-  />
-  <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python"
-    width="40"
-    height="40"
-  />
-  <img
-    src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-    alt="spring"
     width="40"
     height="40"
   />
